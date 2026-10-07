@@ -12,3 +12,4 @@ D:\2nd year\firstproject\obj\Debug\net10.0\refint\firstproject.dll
 D:\2nd year\firstproject\obj\Debug\net10.0\firstproject.pdb
 D:\2nd year\firstproject\obj\Debug\net10.0\firstproject.genruntimeconfig.cache
 D:\2nd year\firstproject\obj\Debug\net10.0\ref\firstproject.dll
+D:\2nd year\firstproject\obj\Debug\net10.0\firstproject.sourcelink.json
